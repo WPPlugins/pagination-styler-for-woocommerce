@@ -1,0 +1,27 @@
+.woocommerce-pagination.berocket_pagination {
+    padding: 0!important;
+    margin: 0!important;
+}
+.woocommerce-pagination.berocket_pagination ul {
+    border-style: solid;
+    overflow: hidden!important;
+    margin: 0!important;
+}
+.woocommerce-pagination.berocket_pagination ul li {
+    border-style: solid;
+    display: block!important;
+}
+.woocommerce-pagination.berocket_pagination ul li:first-child {
+    margin-left: 0!important;
+    margin-top: 0!important;
+}
+.woocommerce-pagination.berocket_pagination ul li:last-child {
+    margin-right: 0!important;
+    margin-bottom: 0!important;
+}
+.woocommerce-pagination.berocket_pagination ul li a,
+.woocommerce-pagination.berocket_pagination ul li span {
+    margin: 0!important;
+    border: 0!important;
+    line-height: 1!important;
+}
